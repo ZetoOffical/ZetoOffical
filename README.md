@@ -8,7 +8,7 @@
 
 <h3>Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetoofficial" alt="zetooffical"/> </p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ZetoOfficial&show_icons=true" alt="zetoqqq"/></p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sfrra5wq1yjqb1xg27qdcg0y0&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=sfrra5wq1yjqb1xg27qdcg0y0&redirect=true)
 
 <h4 align="center">Communication</h4>
 
