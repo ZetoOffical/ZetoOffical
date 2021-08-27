@@ -8,6 +8,7 @@
 
 <h3>Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetoofficial" alt="zetooffical"/> </p>
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=sfrra5wq1yjqb1xg27qdcg0y0&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/sfrra5wq1yjqb1xg27qdcg0y0)
 
 <h4 align="center">Communication</h4>
 
